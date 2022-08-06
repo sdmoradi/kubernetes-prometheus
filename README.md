@@ -27,10 +27,10 @@ kubectl apply -f .
 kubectl apply -f node-exporter/
 ```
 
-#### 3) Deploy kube-state-metrics/
+#### 3) Deploy kube-state-metrics
 
 ```bash
-kubectl apply -f node-exporter/
+kubectl apply -f kube-state-metrics/
 ```
 
 
